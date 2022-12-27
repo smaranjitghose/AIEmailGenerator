@@ -94,7 +94,6 @@ A minimalistic application to generate custom email templates built using Python
 
 - For Streamlit Sharing, mentioning versions of the modules in requirements throws error at times
 
-<p align = "center"><img src = "./assets/demo_snapshot_v2_3.png" height = 300 width = 450 alt = "AITranscriber Snapshot v2"></p>
 
 ## Future Work 🏗️
 
