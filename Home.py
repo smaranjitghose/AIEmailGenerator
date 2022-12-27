@@ -12,6 +12,7 @@ def main():
         page_title="AI Audio Transciber",
         page_icon="📧",
         layout= "centered",
+        initial_sidebar_state="expanded",
         menu_items={
         'Get Help': 'https://github.com/smaranjitghose/AIEmailGenerator',
         'Report a bug': "https://github.com/smaranjitghose/AIEmailGenerator/issues",
